@@ -1,0 +1,43 @@
+/* Write your CSS code here. */
+.feedbackContainer {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  width: 45vw;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 10px;
+  border-radius: 15px;
+}
+.feedbackContainer2 {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  width: 45vw;
+  padding: 10px;
+  background-color: #ffffff;
+  box-shadow: 10px;
+  border-radius: 15px;
+}
+.heading {
+  font-size: 20px;
+  text-align: center;
+  color: #0f172a;
+}
+.items {
+  display: flex;
+  justify-content: space-around;
+}
+.imglove {
+  height: 8vh;
+  width: 5vw;
+}
+.para {
+  text-align: center;
+  color: #1e293b;
+  font-size: 14px;
+}

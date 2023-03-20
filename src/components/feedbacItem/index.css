@@ -1,0 +1,11 @@
+.img {
+  height: 8vh;
+}
+.item {
+  list-style-type: none;
+  margin-top: 20px;
+}
+.name {
+  font-size: 15px;
+  color: #1e293b;
+}
